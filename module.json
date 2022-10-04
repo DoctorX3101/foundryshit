@@ -1,0 +1,26 @@
+{
+    "name": "czepeku-83-necropolis-dungeon",
+    "title": "Cze and Peku - Necropolis Dungeon",
+    "description": "<p>This module provides the Necropolis Dungeon map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "1.0.0",
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku - Necropolis Dungeon",
+            "path": "/packs/maps.db",
+            "entity": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/jyn229oa8jhwx27/83.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/j8vgzkn8mvtw2cn/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/fub935e4j6k0rpd/Necropolis%20Dungeon.zip?dl=1"
+}
