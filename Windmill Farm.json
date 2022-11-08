@@ -1,0 +1,26 @@
+{
+    "name": "czepeku-57",
+    "title": "Windmill Farm by Cze and Peku",
+    "description": "<p>This module provides the Windmill Farm map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.9.0",
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "57 Windmill Farm",
+            "path": "/packs/maps.db",
+            "entity": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/kqlbzn8tedh72og/54.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/mx60hapliagni3n/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/il0t6gqq8rt5xmn/Windmill%20Farm.zip?dl=1"
+}
