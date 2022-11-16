@@ -1,0 +1,26 @@
+{
+    "name": "czepeku-64",
+    "title": "Remote Ice Village by Cze and Peku",
+    "description": "<p>This module provides the Remote Ice Village map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.7.0",
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Remote Ice Village",
+            "path": "/packs/maps.db",
+            "entity": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/wwj4kmq5nl6uusp/61.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/996yopuvlxtnie1/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/x2hhw74hrdyvwk0/Remote%20Ice%20Village.zip?dl=1"
+}
