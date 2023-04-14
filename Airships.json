@@ -5,18 +5,17 @@
     "version": "1.0.0",
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.8.0",
-    "author": "Cze and Peku",
+    "authors": "Cze and Peku",
     "packs": [
         {
-            "name": "maps",
+            "id": "maps",
             "label": "43 Airships!",
             "path": "/packs/maps.db",
-            "entity": "Scene"
         }
     ],
 "media": [
   {
-    "type": "cover",
+    "type": "Scene",
     "url": "https://www.dropbox.com/s/r3kkvmkf6envaya/39.jpg?dl=1"
   }
      ],
