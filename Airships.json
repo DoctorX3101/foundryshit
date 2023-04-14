@@ -1,0 +1,26 @@
+{
+    "name": "czepeku-43",
+    "title": "Airships! by Cze and Peku",
+    "description": "<p>This module provides the Airships! map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.8.0",
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "43 Airships!",
+            "path": "/packs/maps.db",
+            "entity": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": "https://www.dropbox.com/s/r3kkvmkf6envaya/39.jpg?dl=1"
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/g4diccqscmch8cc/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/6kgoq0lkigrsakg/Airships.zip?dl=1"
+}
